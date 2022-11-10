@@ -1,0 +1,94 @@
+
+  - description: ""
+    label: "Pricing"
+    name: "pricing"
+    sort: 101
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/pricing.tpl"
+    content: "/content/pricing.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "description"
+        label: "Description"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Prices"
+    name: "prices"
+    sort: 100
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "pricing"
+    content: "/content/prices.yaml"
+    fields:
+      - name: "price_title"
+        label: "Price title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "price_desc"
+        label: "Price desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "btn_name"
+        label: "Btn name"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "price_image"
+        label: "Price Image"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_order"
+        label: "Sort order"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "carousel_img"
+        label: "Carousel img"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true

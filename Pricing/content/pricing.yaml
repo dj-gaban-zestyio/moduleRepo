@@ -1,0 +1,20 @@
+
+  - id: "760a-de61-19d0"
+    web:
+      metaDescription: ""
+      metaTitle: "Pricing"
+      metaLinkText: "Pricing"
+      metaKeywords: null
+      pathPart: "pricing"
+      path: "/pricing/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 102
+      listed: true
+    data:
+      description: "<p>Take your time, pick what you want and need, everything's a bang for your buck!</p>"
+      title: "Our services for the Kingdom"

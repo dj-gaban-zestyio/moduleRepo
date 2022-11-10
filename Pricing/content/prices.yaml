@@ -1,0 +1,70 @@
+
+  - id: "7877-4dbd-788a"
+    web:
+      metaDescription: "HaircutShave"
+      metaTitle: "Basic"
+      metaLinkText: "Basic"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      btn_name: "Buy now"
+      carousel_img: "https://km76w3d4.media.zestyio.com/barbss.jpg"
+      price_desc: "<p>Simpilicity is beauty! <br />This promo includes the ff:</p>\n<ul>\n<li>Haircut</li>\n<li>Shave</li>\n<li>Foot Massage</li>\n</ul>"
+      price_image: "https://km76w3d4.media.zestyio.com/citizen.jpg"
+      price_title: "Citizen - $10"
+      sort_order: 1
+  - id: "19a1-0f48-7aff"
+    web:
+      metaDescription: "Haircut\nShave\nWash\nBlowdry\nScalp treatment\nFace, Body, and Foot massage"
+      metaTitle: "King"
+      metaLinkText: "King"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+    data:
+      btn_name: null
+      carousel_img: "https://km76w3d4.media.zestyio.com/chairs.jpg"
+      price_desc: "<p>Be a king for a moment! <br />This promo includes the ff:</p>\n<ul>\n<li>Haircut</li>\n<li>Shave</li>\n<li>Wash</li>\n<li>Blowdry</li>\n<li>Scalp treatment</li>\n<li>Face, Body, and Foot massage</li>\n</ul>"
+      price_image: "https://km76w3d4.media.zestyio.com/king.jpg"
+      price_title: "King - $40"
+      sort_order: 3
+  - id: "fb4d-741e-3dda"
+    web:
+      metaDescription: "Haircut\nShave\nWash\nBlowdry\nMassage"
+      metaTitle: "Prince"
+      metaLinkText: "Prince"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 106
+      listed: true
+    data:
+      btn_name: null
+      carousel_img: "https://km76w3d4.media.zestyio.com/agustin-fernandez-Znyjl9pbaUs-unsplash-1-.jpg"
+      price_desc: "<p>Feel like a Prince charming! <br />This promo includes the ff:</p>\n<ul>\n<li>Haircut</li>\n<li>Shave</li>\n<li>Wash</li>\n<li>Blowdry</li>\n<li>Body Massage</li>\n</ul>"
+      price_image: "https://km76w3d4.media.zestyio.com/prince.jpg"
+      price_title: "Prince - $30"
+      sort_order: 2
